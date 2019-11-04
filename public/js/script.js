@@ -1,6 +1,3 @@
-console.log('Client-side js loaded!')
-
-
 const wform = document.querySelector('form')
 const search = document.querySelector('input')
 const message1 = document.querySelector('#message-one')
